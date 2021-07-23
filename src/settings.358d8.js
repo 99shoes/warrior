@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default","hero","ground","death"],collisionMatrix:[[true,false],[false,false,true,true],[false,true,false],[false,true,false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/game.fire",orientation:"",jsList:[],bundleVers:{internal:"45e63",main:"e56a1"}};
